@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Lallji1141.github.io/handbook-x0mi18/sitemap.xml
